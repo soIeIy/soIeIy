@@ -3,11 +3,12 @@
 
 
 <p align="center">
-<b><sub><a href="https://rentry.co/shintart">rentry</a><sub></b>
+<sub><a href="https://rentry.co/shintart">rentry</a></sub>
 &emsp;&emsp;
 &emsp;&emsp;
 &emsp;&emsp;
+♡
 &emsp;&emsp;
 &emsp;&emsp;
 &emsp;&emsp;
-<b><sub><a href="https://tiramusuu.atabook.org">atabook</a><sub></b>
+<sub><a href="https://tiramusuu.atabook.org">atabook</a></sub>
