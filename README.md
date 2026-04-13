@@ -18,3 +18,22 @@
 &emsp;&emsp;
 &emsp;&emsp;
 <sub><a href="https://tiramusuu.atabook.org">atabook</a></sub>
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<p align="center" width="100%">
+    <img width="25%" src="https://file.garden/ac59ISKTM39AWyPy/Capture.PNG">
+<p align="center"><sub>WHY AM I ONLY FINDING THIS OUT NOW IMSSSOOODEAAADDD LMFAO</sub></p>
