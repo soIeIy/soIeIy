@@ -4,7 +4,7 @@
 </p>
 
 <p align="center" width="100%">
-    <img width="55%" src="https://file.garden/ac59ISKTM39AWyPy/82acfa8d8f26e28764c81a022d8ee546.gif">
+    <img width="60%" src="https://file.garden/ac59ISKTM39AWyPy/82acfa8d8f26e28764c81a022d8ee546.gif">
 
 <p align="center">
 <sub><a href="https://rentry.co/souley">rentry</a></sub>
