@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" width="100%">
-    <img width="60%" src="https://file.garden/ac59ISKTM39AWyPy/6064dd27a8dbc1e153ada1e1bf8de557.gif">
+    <img width="60%" src="https://file.garden/ac59ISKTM39AWyPy/ffb95cedcadd3898b0eb38ae223e0b8c.gif">
 
 <p align="center">
 <sub><a href="https://rentry.co/souley">rentry</a></sub>
