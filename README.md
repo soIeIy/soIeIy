@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=soIeIy&color=greye&plastic&label=++𝄞⨾𓍢ִ໋++&base=27092773562598212&abbreviated=true">
+<img src="https://komarev.com/ghpvc/?username=soIeIy&color=grey&plastic&label=++𝄞⨾𓍢ִ໋++&base=27092773562598212&abbreviated=true">
 </p>
 
 <p align="center" width="100%">
