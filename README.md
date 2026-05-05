@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" width="100%">
-    <img width="60%" src="https://file.garden/ac59ISKTM39AWyPy/Reblog%20by%20@blood-princess-arcueid%20%C2%B7%201%20image.gif">
+    <img width="60%" src="https://file.garden/ac59ISKTM39AWyPy/ffb95cedcadd3898b0eb38ae223e0b8c.gif">
 
 <p align="center">
 <sub><a href="https://rentry.co/souley">rentry</a></sub>
