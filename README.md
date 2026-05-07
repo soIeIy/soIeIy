@@ -1,20 +1,16 @@
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=soIeIy&color=grey&plastic&label=++𝄞⨾𓍢ִ໋++&base=27092773562598212&abbreviated=true">
-</p>
-
 <p align="center" width="100%">
-    <img width="60%" src="https://file.garden/ac59ISKTM39AWyPy/ffb95cedcadd3898b0eb38ae223e0b8c.gif">
+    <img width="45%" src="https://file.garden/ac59ISKTM39AWyPy/Untitled159_20260507234527.png">
 
 <p align="center">
-<sub><a href="https://rentry.co/souley">rentry</a></sub>
+<a href="https://rentry.co/souley">
+  <img src="https://file.garden/ac59ISKTM39AWyPy/Untitled159_20260507235936.png" width="170">
+</a>
 &emsp;&emsp;
 &emsp;&emsp;
 &emsp;&emsp;
 &emsp;&emsp;
-˚⟡˖ ࣪
 &emsp;&emsp;
-&emsp;&emsp;
-&emsp;&emsp;
-&emsp;&emsp;
-<sub><a href="https://tiramusuu.atabook.org">atabook</a></sub>
+<a href="https://tiramusuu.atabook.org">
+  <img src="https://file.garden/ac59ISKTM39AWyPy/Untitled159_20260507235946.png" width="170">
+</a>
 
