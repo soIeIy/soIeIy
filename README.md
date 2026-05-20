@@ -1,10 +1,10 @@
 <p align="center" width="100%">
-    <img width="100%" src="https://file.garden/ac59ISKTM39AWyPy/Untitled165_20260520165015.png">
+    <img width="95%" src="https://file.garden/ac59ISKTM39AWyPy/Untitled165_20260520165015.png">
 &emsp;&emsp;
 &emsp;&emsp;
 &emsp;&emsp;
 &emsp;&emsp;
-<p align="center" width="100%">
+    <p align="center" width="100%">
     <img width="50%" src="https://file.garden/ac59ISKTM39AWyPy/Untitled159_20260507234527.png">
 
 <p align="center">
@@ -25,5 +25,5 @@
 &emsp;&emsp;
 &emsp;&emsp;
 <p align="center" width="100%">
-    <img width="100%" src="https://file.garden/ac59ISKTM39AWyPy/Untitled165_20260520165025.png">
+    <img width="95%" src="https://file.garden/ac59ISKTM39AWyPy/Untitled165_20260520165025.png">
 
