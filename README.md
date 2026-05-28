@@ -1,15 +1,9 @@
 <p align="center" width="100%">
-    <img width="95%" src="https://file.garden/ac59ISKTM39AWyPy/Untitled165_20260520165015.png">
-&emsp;&emsp;
-&emsp;&emsp;
-&emsp;&emsp;
-&emsp;&emsp;
-    <p align="center" width="100%">
-    <img width="50%" src="https://file.garden/ac59ISKTM39AWyPy/Untitled159_20260507234527.png">
+    <img width="40%" src="https://file.garden/ac59ISKTM39AWyPy/Untitled159_20260507234527.png">
 
 <p align="center">
 <a href="https://rentry.co/souley">
-  <img src="https://file.garden/ac59ISKTM39AWyPy/Untitled159_20260507235936.png" width="170">
+  <img src="https://file.garden/ac59ISKTM39AWyPy/Untitled159_20260507235936.png" width="120">
 </a>
 &emsp;&emsp;
 &emsp;&emsp;
@@ -17,13 +11,7 @@
 &emsp;&emsp;
 &emsp;&emsp;
 <a href="https://arcueid.atabook.org/">
-  <img src="https://file.garden/ac59ISKTM39AWyPy/Untitled159_20260507235946.png" width="170">
+  <img src="https://file.garden/ac59ISKTM39AWyPy/Untitled159_20260507235946.png" width="120">
 </a>
-    
-&emsp;&emsp;
-&emsp;&emsp;
-&emsp;&emsp;
-&emsp;&emsp;
-<p align="center" width="100%">
-    <img width="95%" src="https://file.garden/ac59ISKTM39AWyPy/Untitled165_20260520165025.png">
+
 
