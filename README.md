@@ -1,17 +1,18 @@
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=soIeIy&color=grey&plastic&label=++𝄞⨾𓍢ִ໋++&base=27092773562598212&abbreviated=true">
+</p>
+
 <p align="center" width="100%">
-    <img width="40%" src="https://file.garden/ac59ISKTM39AWyPy/Untitled159_20260507234527.png">
+    <img width="20%" src="https://file.garden/ac59ISKTM39AWyPy/67dfd206cd41e4f5f61eb5c47b9a2f7e.jpg">
 
 <p align="center">
-<a href="https://rentry.co/souley">
-  <img src="https://file.garden/ac59ISKTM39AWyPy/Untitled159_20260507235936.png" width="120">
-</a>
-&emsp;&emsp;
-&emsp;&emsp;
-&emsp;&emsp;
-&emsp;&emsp;
-&emsp;&emsp;
-<a href="https://arcueid.atabook.org/">
-  <img src="https://file.garden/ac59ISKTM39AWyPy/Untitled159_20260507235946.png" width="120">
-</a>
+    <sup>
+ <a href="https://rentry.co/souley"><strong>RENTRY</strong></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://arcueid.atabook.org/"><strong>ATABOOK</strong></a>
+    </sup>
+</p>
 
 
