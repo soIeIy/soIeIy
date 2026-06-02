@@ -7,11 +7,11 @@
 
 <p align="center">
     <sup>
- <a href="https://rentry.co/souley"><strong>RENTRY</strong></a>
+<a href="https://rentry.co/souley">RENTRY</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://arcueid.atabook.org/"><strong>ATABOOK</strong></a>
+<a href="https://arcueid.atabook.org/">新BOOK</a>
     </sup>
 </p>
 
