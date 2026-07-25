@@ -8,11 +8,19 @@
 </p>
 
 <p align="center">
- <b> <a href="https://rentry.co/souley">‎ RENRTY</a> </b>
+ <b> <a href="https://rentry.co/souley">‎RENRTY</a> </b>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <b> <a href="https://arcueid.atabook.org/">‎ 新BOOK</a> </b>
+ <b> <a href="https://arcueid.atabook.org/">‎新BOOK</a> </b>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b> <a href="https://guns.lol/shinyo">‎GUNS</a> </b>
+</a>
+
+
