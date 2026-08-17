@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- <b> <a href="https://rentry.co/souley">‎RENRTY</a> </b>
+ <b> <a href="https://rentry.co/souley">‎RENTRY</a> </b>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
