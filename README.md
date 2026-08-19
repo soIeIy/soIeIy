@@ -1,21 +1,21 @@
 <p align="center" width="100%">
-  <img width="75%" src="https://file.garden/ac59ISKTM39AWyPy/Untitled215_20260808113255.png">
+  <img width="35%" src="https://file.garden/ac59ISKTM39AWyPy/Untitled219_20260819213024.png">
 </p>
 
 <p align="center">
- <b> <a href="https://rentry.co/souley">‎RENTRY</a> </b>
+ <b> <a href="https://rentry.co/souley">‎𝗥𝗘𝗡𝗧𝗥𝗬</a> </b>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <b> <a href="https://arcueid.atabook.org/">‎新BOOK</a> </b>
+ <b> <a href="https://arcueid.atabook.org/">新𝗕𝗢𝗢𝗞</a> </b>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b> <a href="https://guns.lol/shinyo">‎GUNS</a> </b>
+<b> <a href="https://guns.lol/shinyo">‎𝗚𝗨𝗡𝗦</a> </b>
 </a>
 
 
