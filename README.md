@@ -1,21 +1,21 @@
-<p align="center" width="100%">
-  <img width="35%" src="https://file.garden/ac59ISKTM39AWyPy/Untitled219_20260819213024.png">
-</p>
+<h4 align="center">
 
-<p align="center">
- <b> <a href="https://rentry.co/souley">‎𝗥𝗘𝗡𝗧𝗥𝗬</a> </b>
-</a>
+<img width="30%" src="https://file.garden/ac59ISKTM39AWyPy/Untitled219_20260819213024.png">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<h4 align="center">
+
+<a href="https://rentry.co/souley">‎𝗥𝗘𝗡𝗧𝗥𝗬</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <b> <a href="https://arcueid.atabook.org/">新𝗕𝗢𝗢𝗞</a> </b>
-</a>
+<a href="https://arcueid.atabook.org/">新𝗕𝗢𝗢𝗞</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b> <a href="https://guns.lol/shinyo">‎𝗚𝗨𝗡𝗦</a> </b>
-</a>
+<a href="https://guns.lol/shinyo">‎𝗚𝗨𝗡𝗦</a>
 
 
